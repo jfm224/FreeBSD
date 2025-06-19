@@ -11,4 +11,5 @@ Para instalar o xvkbd use "pkg install xvkbd".
 - Leitura Qrcode e datamatrix (instale o zbar: pkg install zbar).
 - Escanear por dentro do eog/eom usando python3 e pyinsane: testpyinsane2.py
     instale o sane (pkg install sane-backends) e o modulo pyinsane2 (pip install pyinsane2).
-- 
+- Só não me pergunte como adicionar tokens do github no VSCode no FreeBSD, usei o terminal e gnome-webkit2.
+
